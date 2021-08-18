@@ -1,0 +1,5 @@
+run,1
+eat,9
+fly,9
+go,fast
+drive,safely
